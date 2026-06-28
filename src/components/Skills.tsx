@@ -16,7 +16,7 @@ const skills = [
   { name: 'WordPress', level: 82, color: '#21759b', category: 'Frontend' },
   { name: 'AWS (Cloud Practitioner)', level: 80, color: '#ff9900', category: 'DevOps' },
   { name: 'Git', level: 90, color: '#f05032', category: 'DevOps' },
-  { name: 'GitHub', level: 90, color: '#ffffff', category: 'DevOps' },
+  { name: 'GitHub', level: 90, color: '#6e7681', category: 'DevOps' },
   { name: 'Azure DevOps', level: 78, color: '#0078d4', category: 'DevOps' },
 ];
 
